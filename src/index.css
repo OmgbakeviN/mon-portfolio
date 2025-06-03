@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "https://cdn.jsdelivr.net/npm/tailwindcss@3.3.5/dist/tailwind.min.css";
+
+/* Ajoute juste tes animations */
+.animate-spin-slow {
+  animation: spin 8s linear infinite;
+}
+@keyframes blob {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(30px, -50px) scale(1.1); }
+  66% { transform: translate(-20px, 20px) scale(0.9); }
+}
