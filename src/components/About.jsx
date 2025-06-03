@@ -17,7 +17,7 @@ const AboutSection = () => {
                 overflow-hidden
               ">
                 <img 
-                  src="/photo-kevin.jpg"  // Remplace par ton image
+                  src="src\assets\kevin3.jpg"  // Remplace par ton image
                   alt="OMBGA Paul Kevin"
                   className="w-full h-full object-cover"
                 />

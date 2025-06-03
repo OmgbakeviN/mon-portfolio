@@ -59,7 +59,7 @@ const HeroSection = () => {
               >
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-gray-900">
                   <img 
-                    src="https://via.placeholder.com/400x400" // Remplace par ton image
+                    src="src\assets\kevin.png" // Remplace par ton image
                     alt="Photo de profil"
                     className="w-full h-full object-cover"
                   />
